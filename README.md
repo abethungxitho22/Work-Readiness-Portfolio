@@ -12,7 +12,9 @@ Digital Portfolio for PRP370S - Work Readiness Training
 This section demonstrates my competency in professional business communication, including formal correspondence, email etiquette, and appropriate communication for various business contexts.
 
 **Student Number:** 221297820
+
 **Programme:** DPICT
+
 **Expected Graduation:** April 2026
 
 ---
