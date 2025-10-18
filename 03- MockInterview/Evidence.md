@@ -1,1 +1,3 @@
-[[[https://drive.google.com/file/d/1jNKTO2d_mgj59HxyKpAypLNwsbBvtqN_/view?usp=sharing](https://drive.google.com/file/d/1jNKTO2d_mgj59HxyKpAypLNwsbBvtqN_/view?usp=drive_link)](https://drive.google.com/file/d/1jNKTO2d_mgj59HxyKpAypLNwsbBvtqN_/view?usp=sharing)](https://drive.google.com/file/d/1jNKTO2d_mgj59HxyKpAypLNwsbBvtqN_/view?usp=sharing)<img width="1709" height="279" alt="Screenshot 2025-10-18 211836" src="https://github.com/user-attachments/assets/d1625634-3368-4448-9e11-c0d10e0ea3d1" />
+https://drive.google.com/file/d/1jNKTO2d_mgj59HxyKpAypLNwsbBvtqN_/view?usp=sharing
+
+alt="Screenshot 2025-10-18 211836" src="https://github.com/user-attachments/assets/d1625634-3368-4448-9e11-c0d10e0ea3d1" />
