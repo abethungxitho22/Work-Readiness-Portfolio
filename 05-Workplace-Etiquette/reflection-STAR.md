@@ -3,7 +3,7 @@
 
 At the beginning of the PRP370S module in early 2025, I was required to develop professional workplace etiquette skills as part of my work readiness training. As a final-year Diploma in Information and Communication Technology student at Cape Peninsula University of Technology, I recognized that technical skills alone would not be sufficient for success in the IT industry
 
-Before completing this activity, I had a general idea of professionalism but limited understanding of how everyday behavior, such as punctuality, confidentiality, and communication tone — influences workplace relationships and reputation.
+Before completing this activity, I had a general idea of professionalism but limited understanding of how everyday behavior, such as punctuality, confidentiality, and communication tone influences workplace relationships and reputation.
 
 The IT industry operates within professional organizational environments where behavior, communication style, and adherence to workplace norms significantly impact career success and team dynamics. Employers expect not only technical competence but also professional maturity, respect for colleagues, and understanding of workplace protocols. I needed to transition from a student mindset to a professional employee mindset, understanding how everyday behaviors influence workplace relationships and professional reputation.
 
