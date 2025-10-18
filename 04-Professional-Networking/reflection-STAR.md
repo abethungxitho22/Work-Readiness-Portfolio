@@ -63,7 +63,7 @@ I actively engaged by liking and commenting on IT-related posts to stay visible 
 
 Through this process, I achieved the following outcomes:
 
-Practical Results
+### Practical Results
 
 Completed all Professional Networking activities with a 100% quiz score.
 
@@ -75,7 +75,7 @@ Created a professional digital presence that serves as an extension of my CV.
 
 Established templates and standards I can update as I gain more experience.
 
-###Skills Gained
+### Skills Gained
 
 Improved understanding of how networking supports career growth and continuous learning.
 
@@ -87,7 +87,7 @@ Replaced nervous, disorganized answers with confident, coherent narratives using
 
 Developed fluency in discussing both strengths and weaknesses appropriately.
 
-###Long-Term Impact
+### Long-Term Impact
 
 My LinkedIn profile now serves as a digital extension of my CV.
 
