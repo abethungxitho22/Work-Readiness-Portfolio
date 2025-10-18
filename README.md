@@ -23,7 +23,7 @@ This section demonstrates my competency in professional business communication, 
 
 This portfolio is organized into five core competency areas, each containing evidence of learning and reflective analysis:
 
-### 1. Business Communication](./01-Business-Communication/)
+### 1. Business Communication]
 Professional communication skills including email etiquette, formal writing, and business correspondence.
 
 **Evidence:** Professional email examples, communication guidelines, and business writing samples  
@@ -31,7 +31,7 @@ Professional communication skills including email etiquette, formal writing, and
 
 ---
 
-### [💼 2. Interview Skills](./02-Interview-Skills/)
+### [ 2. Interview Skills](./02-Interview-Skills/)
 Preparation techniques, CV development, and interview strategy.
 
 **Evidence:** CV, cover letters, interview preparation materials  
@@ -39,7 +39,7 @@ Preparation techniques, CV development, and interview strategy.
 
 ---
 
-### [🎤 3. Mock Interview](./03-Mock-Interview/)
+### [ 3. Mock Interview](./03-Mock-Interview/)
 Practical interview experience and performance evaluation.
 
 **Evidence:** Mock interview recordings, feedback, self-assessment  
@@ -47,7 +47,7 @@ Practical interview experience and performance evaluation.
 
 ---
 
-### [🤝 4. Professional Networking](./04-Professional-Networking/)
+### [ 4. Professional Networking](./04-Professional-Networking/)
 Building and maintaining professional relationships and online presence.
 
 **Evidence:** LinkedIn profile, networking strategies, professional connections  
