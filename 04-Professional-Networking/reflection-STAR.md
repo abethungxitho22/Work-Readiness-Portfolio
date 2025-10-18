@@ -19,6 +19,8 @@ Avoid common networking mistakes such as lack of preparation or self-centered co
 
 Build and maintain authentic professional relationships within the IT industry.
 
+---
+
 ## Action
 
 To complete this task:
@@ -29,11 +31,11 @@ I created and optimized my LinkedIn profile, including a professional profile ph
 
 I added my academic background, skills, and interests related to software and web development.
 
-I began connecting with peers, lecturers, and industry professionals, focusing on meaningful interactions.
-
 I reviewed examples of good networking etiquette, including the CAR and STAR methods for self-presentation.
 
 I actively engaged by liking and commenting on IT-related posts to stay visible and involved in the professional community.
+
+---
 
 ## Result
 
@@ -43,26 +45,56 @@ Practical Results
 
 Completed all Professional Networking activities with a 100% quiz score.
 
+Demonstrated comprehensive understanding of interview principles and techniques.
+
 Developed a fully optimized LinkedIn profile that represents my academic journey and career goals.
 
-Connected with several industry professionals and peers, expanding my professional circle.
+Established templates and standards I can update as I gain more experience.
 
-Skills Gained
+###Skills Gained
 
 Improved understanding of how networking supports career growth and continuous learning.
 
 Developed communication skills for building and maintaining professional relationships.
 
-Gained experience in presenting myself professionally online.
+Transformed my ability to respond to behavioral and situational questions.
 
-Long-Term Impact
+Replaced nervous, disorganized answers with confident, coherent narratives using the CAR method.
+
+Developed fluency in discussing both strengths and weaknesses appropriately.
+
+###Long-Term Impact
 
 My LinkedIn profile now serves as a digital extension of my CV.
 
 I am more confident initiating professional conversations and collaborations.
 
+Established a foundation for continuous improvement in career development.
+
+Awareness of the importance of preparation and practice.
+
 I plan to use LinkedIn actively to connect with recruiters, mentors, and fellow developers.
+
+---
+
+## Continued Development:
+Moving forward, I am committed to:
+
+Regularly practicing both behavioral and technical interview questions relevant to my specialization areas
+
+Seeking feedback from mentors, career services professionals, and peers to continuously refine responses
+
+Updating my CV and portfolio materials as I complete new projects and acquire additional skills
+
+Applying these skills in actual internship and job interviews, treating each opportunity as both a potential employment path and a learning experience
+
+Staying informed about evolving interview trends in the IT industry, including technical assessments and remote interview 
+formats
+
+---
 
  ## Reflection Summary
 
-This experience taught me that networking is not only about finding jobs but about building genuine relationships that create future opportunities. By maintaining professionalism and authenticity online, I can grow a strong professional reputation and expand my opportunities in the IT industry.
+The development of interview skills has been transformative for my professional readiness. What began as a theoretical module requirement evolved into practical competency that positions me for success in the competitive IT job market. The ability to present myself professionally, articulate my qualifications clearly, and demonstrate confidence in high-pressure situations is now a core component of my professional identity, complementing my technical IT skills and positioning me for success in the workplace.
+
+This learning experience has taught me that career success requires more than technical expertise - it demands the ability to communicate that expertise effectively, present oneself professionally, and demonstrate fit for organizational culture and team dynamics. I am confident that these interview skills will serve as a foundation for my entire IT career.
