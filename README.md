@@ -1,7 +1,7 @@
 # Work-Readiness-Portfolio
 
 ## Abethu Ngxitho
-### Diploma in Information and Communication Technology
+### Diploma in ICT Application Development
 ### Cape Peninsula University of Technology
 Digital Portfolio for PRP370S - Work Readiness Training
 
@@ -55,7 +55,7 @@ Building and maintaining professional relationships and online presence.
 
 ---
 
-### [👔 5. Workplace Etiquette](./05-Workplace-Etiquette/)
+### [ 5. Workplace Etiquette](./05-Workplace-Etiquette/)
 Professional conduct, workplace behavior, and organizational culture awareness.
 
 **Evidence:** Etiquette scenarios, professional conduct examples  
@@ -66,8 +66,8 @@ Professional conduct, workplace behavior, and organizational culture awareness.
 ## 📞 Contact Information
 
 - **Email:** abethungxitho82@gmail.com
-- **Mobile:** 082-XXX-XXXX
-- **LinkedIn:** [linkedin.com/in/abethungxith0](https://linkedin.com/in/abethungxitho)
+- **Mobile:** 071-XXX-XXXX
+- **LinkedIn:** [www.linkedin.com/in/abethu-ngxitho-746595223
 - **GitHub:** [@AbethuNgxitho22](https://github.com/AbethuNgxitho22)
 
 ---
@@ -76,9 +76,9 @@ Professional conduct, workplace behavior, and organizational culture awareness.
 
 **Institution:** Cape Peninsula University of Technology  
 **Faculty:** Informatics and Design  
-**Programme:** Diploma in Information and Communication Technology  
+**Programme:** Diploma ICT Application Development
 **Module:** PRP370S - Project Presentation 3  
-**Lecturer:** P. Inderlal  
+**Lecturer:Mam P. Inderlal  
 **Submission Date:** October 17, 2025
 
 ---
