@@ -31,7 +31,7 @@ Professional communication skills including email etiquette, formal writing, and
 
 ---
 
-### [ 2. Interview Skills](./02-Interview-Skills/)
+### [ 2. Interview Skills]
 Preparation techniques, CV development, and interview strategy.
 
 **Evidence:** CV, cover letters, interview preparation materials  
@@ -39,7 +39,7 @@ Preparation techniques, CV development, and interview strategy.
 
 ---
 
-### [ 3. Mock Interview](./03-Mock-Interview/)
+### [ 3. Mock Interview]
 Practical interview experience and performance evaluation.
 
 **Evidence:** Mock interview recordings, feedback, self-assessment  
@@ -47,7 +47,7 @@ Practical interview experience and performance evaluation.
 
 ---
 
-### [ 4. Professional Networking](./04-Professional-Networking/)
+### [ 4. Professional Networking]
 Building and maintaining professional relationships and online presence.
 
 **Evidence:** LinkedIn profile, networking strategies, professional connections  
@@ -55,7 +55,7 @@ Building and maintaining professional relationships and online presence.
 
 ---
 
-### [ 5. Workplace Etiquette](./05-Workplace-Etiquette/)
+### [ 5. Workplace Etiquette]
 Professional conduct, workplace behavior, and organizational culture awareness.
 
 **Evidence:** Etiquette scenarios, professional conduct examples  
